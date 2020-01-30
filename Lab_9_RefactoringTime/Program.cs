@@ -5,7 +5,6 @@ class Program
 {
     static void Main(string[] args)
     {
-
         //string list with fellow students names
         List<string> names = new List<string> { "Sean", "Blake", "James" };
 
@@ -20,6 +19,8 @@ class Program
 
         Console.WriteLine("Welcome to C# January 2020.");
         Console.WriteLine();
+
+        //keyword HereWeGo to move about the code using goto
     HereWeGo:
         Console.WriteLine("Would you like to: \n1. Get to know your classmates or \n2. Add new classmate?\n");
         Console.WriteLine("Enter 1 or 2");
@@ -43,7 +44,6 @@ class Program
         //if loop to ask if user wants to add classmate
         if (wouldYou == "1")
         {
-
             //use while loop to see if user would like to repeat
             while (repeat)
             {
@@ -54,7 +54,6 @@ class Program
                     Console.WriteLine($"{i + 1}. {names[i]}");
                     //assuring that it's 1. person 2.person...not 0.person
                 }
-
 
                 Console.WriteLine();
                 student = RangeCheck(int.Parse(GetUserInput("Pick a number to learn more about that student?")), 1, names.Count);
@@ -135,12 +134,10 @@ class Program
                     {
                         goto ThisIsTheEnd;
                     }
-
-
-
                 }
             }
         }
+
         else if (wouldYou == "2")
         {
             //add new user method here
@@ -148,7 +145,9 @@ class Program
             hometown.Add(GetUserInput("Where are they from?\n"));
             food.Add(GetUserInput("What is their favorite food?\n"));
             favNumber.Add(GetUserInput("What is their favorite number?\n"));
+
             Console.WriteLine("Thanks. Let's start over\n");
+
             goto HereWeGo;
 
         }
@@ -159,10 +158,6 @@ class Program
 
     ThisIsTheEnd:;
     }
-
-
-
-
 
     //user input method
     public static string GetUserInput(string message)
@@ -186,6 +181,3 @@ class Program
         }
     }
 }
-
-
-
