@@ -1,0 +1,11 @@
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab_9_RefactoringTime\Lab_9_RefactoringTime\bin\Debug\netcoreapp2.1\Lab_9_RefactoringTime.deps.json
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab_9_RefactoringTime\Lab_9_RefactoringTime\bin\Debug\netcoreapp2.1\Lab_9_RefactoringTime.runtimeconfig.json
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab_9_RefactoringTime\Lab_9_RefactoringTime\bin\Debug\netcoreapp2.1\Lab_9_RefactoringTime.runtimeconfig.dev.json
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab_9_RefactoringTime\Lab_9_RefactoringTime\bin\Debug\netcoreapp2.1\Lab_9_RefactoringTime.dll
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab_9_RefactoringTime\Lab_9_RefactoringTime\bin\Debug\netcoreapp2.1\Lab_9_RefactoringTime.pdb
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab_9_RefactoringTime\Lab_9_RefactoringTime\obj\Debug\netcoreapp2.1\Lab_9_RefactoringTime.csprojAssemblyReference.cache
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab_9_RefactoringTime\Lab_9_RefactoringTime\obj\Debug\netcoreapp2.1\Lab_9_RefactoringTime.csproj.CoreCompileInputs.cache
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab_9_RefactoringTime\Lab_9_RefactoringTime\obj\Debug\netcoreapp2.1\Lab_9_RefactoringTime.AssemblyInfoInputs.cache
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab_9_RefactoringTime\Lab_9_RefactoringTime\obj\Debug\netcoreapp2.1\Lab_9_RefactoringTime.AssemblyInfo.cs
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab_9_RefactoringTime\Lab_9_RefactoringTime\obj\Debug\netcoreapp2.1\Lab_9_RefactoringTime.dll
+C:\Users\ruwar\OneDrive\Desktop\Grand Circus Projects\Labs\Lab_9_RefactoringTime\Lab_9_RefactoringTime\obj\Debug\netcoreapp2.1\Lab_9_RefactoringTime.pdb
